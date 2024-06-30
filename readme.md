@@ -17,6 +17,9 @@ PROVISIONING AN INFRASTRUCTURE ON AWS USING TERRAFORM
   the routing of traffic from the loadbalancer.
 
 
+
 ![Screenshot (154)](https://github.com/baylon-obinna/terraform/assets/111370498/d2532d96-86e0-4f87-ae9a-7ab96a1d1835)
+
+
 
 ![Screenshot (153)](https://github.com/baylon-obinna/terraform/assets/111370498/8548db90-189f-4234-bfd2-0f13f750652c)
